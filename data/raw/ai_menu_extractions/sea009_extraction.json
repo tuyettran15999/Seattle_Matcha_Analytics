@@ -1,0 +1,166 @@
+{
+  "response_id": "resp_0998600dc42d8042016a933212c1e487d090c6a68940ce91f8",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA009",
+  "menu_url": "https://drive.google.com/file/d/1dTl33UzNkJu1AkJvIg0savaLMOimN9wB/view?usp=sharing",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Matcha Latte - $7.50"
+      },
+      {
+        "drink_name": "Jasmine Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Jasmine",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "2%"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Jasmine Matcha Latte - $8.00"
+      },
+      {
+        "drink_name": "Strawberry Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Strawberry Matcha - $8.50"
+      },
+      {
+        "drink_name": "Matcha Cheese Top",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Our rich matcha latte paired with a sweet, cream cheese base cream top."
+      },
+      {
+        "drink_name": "Banana Bread Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Banana Bread",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Banana Bread Matcha - $8.50"
+      },
+      {
+        "drink_name": "Strawberry Jasmine Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Strawberry; Jasmine",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Saemidori",
+          "Okumidori",
+          "Nishio"
+        ],
+        "evidence": "Strawberry Jasmine Matcha - $8.50"
+      }
+    ],
+    "extraction_notes": [
+      "All drinks are explicitly stated to be served iced in a 12 oz cup; hot availability is not stated.",
+      "Oat milk is explicitly stated to be always included. 2% milk is listed as recommended for Jasmine Matcha Latte.",
+      "The shop's general matcha description was applied to each listed matcha drink."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1171,
+    "input_tokens_details": {
+      "cache_write_tokens": 1168,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1081,
+    "output_tokens_details": {
+      "reasoning_tokens": 355
+    },
+    "total_tokens": 2252
+  }
+}

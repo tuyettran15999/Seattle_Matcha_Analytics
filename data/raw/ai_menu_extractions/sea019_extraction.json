@@ -1,0 +1,157 @@
+{
+  "response_id": "resp_089e0db9a4bf0ef7016a933571ac2487d0b06a08ceda78d9ce",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA019",
+  "menu_url": "https://mirotea.com/pages/cafe",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "All Nighter",
+        "drink_category": "Matcha Latte",
+        "flavor": "Espresso",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Soy",
+          "Almond",
+          "Unsweetened Almond",
+          "Oat",
+          "Coconut"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "sweetened matcha and double espresso layered with milk \u2014 $6.50"
+      },
+      {
+        "drink_name": "Matcha Soda",
+        "drink_category": "Matcha Soda",
+        "flavor": "Yuzu",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.0,
+        "max_price": 6.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "sweetened matcha with yuzu juice and sparkling water \u2014 $6.00"
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.25,
+        "max_price": 6.25,
+        "price_is_starting": false,
+        "milk_options": [
+          "Soy",
+          "Almond",
+          "Unsweetened Almond",
+          "Oat",
+          "Coconut"
+        ],
+        "matcha_type_claim": [
+          "Japanese"
+        ],
+        "evidence": "Japanese matcha with steamed milk \u2014 $6.25"
+      },
+      {
+        "drink_name": "Ginger Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Ginger",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Soy",
+          "Almond",
+          "Unsweetened Almond",
+          "Oat",
+          "Coconut"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "organic ginger and ceremonial matcha, steamed milk; also available whisked without steamed milk \u2014 $6.50"
+      },
+      {
+        "drink_name": "Organic Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.5,
+        "max_price": 5.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Organic",
+          "Shizuoka"
+        ],
+        "evidence": "Organic Matcha \u2014 origin Shizuoka, Japan \u2014 $5.50"
+      },
+      {
+        "drink_name": "Ceremonial Homare",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.0,
+        "max_price": 6.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Homare",
+          "Uji"
+        ],
+        "evidence": "Ceremonial Homare \u2014 origin Uji, Japan \u2014 $6.00"
+      },
+      {
+        "drink_name": "Ceremonial Yamabuki",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.0,
+        "max_price": 6.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Yamabuki",
+          "Uji"
+        ],
+        "evidence": "Ceremonial Yamabuki \u2014 origin Uji, Japan \u2014 $6.00"
+      }
+    ],
+    "extraction_notes": [
+      "Milk options are listed as a shared menu section and were applied to the explicitly milk-based matcha drinks; the $1 surcharge was excluded from base prices.",
+      "Whisked matcha is explicitly served iced, but hot availability is not separately stated."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1145,
+    "input_tokens_details": {
+      "cache_write_tokens": 1142,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1142,
+    "output_tokens_details": {
+      "reasoning_tokens": 393
+    },
+    "total_tokens": 2287
+  }
+}

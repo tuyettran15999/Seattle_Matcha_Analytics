@@ -1,0 +1,53 @@
+SOURCE: Official Junbi Seattle Toast ordering menu
+URL: https://toast.app/r/junbi-seattle/order
+COLLECTED: 2026-08-29
+
+MATCHA LATTE
+Cold Matcha Latte — Fresh dairy & a double matcha shot — $7.25
+Hot Matcha Latte — Fresh dairy & a double matcha shot — $7.25
+Cold Dirty Matcha Latte — Fresh dairy, double espresso shot, & a double matcha shot — $8.25
+Hot Dirty Matcha Latte — Fresh dairy, double espresso shot, & a double matcha shot — $8.25
+Cold Guava Matcha Latte — Fresh dairy, all-natural house-made guava puree, & a double shot of matcha — $7.75
+Hot Guava Matcha Latte — Fresh dairy, all-natural house-made guava puree, & a double shot of matcha — $7.75
+Cold Madagascar Vanilla Matcha Latte — Fresh dairy, Madagascar vanilla, & a double matcha shot — $7.50
+Hot Madagascar Vanilla Matcha Latte — Fresh dairy, Madagascar vanilla, & a double matcha shot — $7.50
+Cold Mango Matcha Latte — Fresh dairy, real mango puree, & a double shot of matcha — $7.50
+Hot Mango Matcha Latte — Fresh dairy, real mango puree, & a double shot of matcha — $7.50
+Cold Strawberry Matcha Latte — Fresh dairy, real strawberries, & a double matcha shot — $7.50
+Hot Strawberry Matcha Latte — Fresh dairy, real strawberries, & a double matcha shot — $7.50
+
+MATCHA COLD BREW / MATCHA
+Cold Ganbaru Ceremonial Matcha Cold Brew — first harvest shade-grown matcha — $7.00
+Hot Ganbaru Ceremonial Matcha — first harvest shade-grown matcha — $7.00
+Cold Chosen Ceremonial Matcha Cold Brew — first harvest shade-grown matcha — $7.25
+Hot Chosen Ceremonial Matcha — first harvest shade-grown matcha — $7.25
+Cold Dirty Matcha Cold Brew — matcha with milk and double espresso — $7.75
+Hot Dirty Matcha — matcha milk tea and double espresso — $7.75
+Cold Guava Matcha Cold Brew — premium matcha and house-made guava puree — $7.50
+Hot Guava Matcha — premium matcha, guava puree, and fresh dairy — $7.50
+Cold Mango Matcha Cold Brew — signature premium matcha and real mangoes — $7.25
+Hot Mango Matcha — signature premium matcha and real mangoes — $7.25
+Cold Madagascar Vanilla Matcha Cold Brew — premium matcha, Madagascar vanilla, and fresh dairy — $7.25
+Hot Madagascar Vanilla Matcha — premium matcha, Madagascar vanilla, and fresh dairy — $7.25
+Cold Strawberry Matcha Cold Brew — premium matcha and real strawberries — $7.25
+Hot Strawberry Matcha — signature premium matcha and real strawberries — $7.25
+Cold Yuzu Dragon Fruit Matcha Cold Brew — premium matcha, yuzu juice, and real dragon fruit — $7.50
+Hot Yuzu Dragon Fruit Matcha — premium matcha, yuzu juice, and real dragon fruit — $7.50
+
+BLENDED
+Dirty Matcha Blended — premium matcha blended with vanilla cream and double espresso — $9.00
+Matcha Blended — premium grade matcha blended with vanilla cream — $8.00
+Strawberry Matcha Blended — premium grade matcha, strawberry puree, vanilla cream — $8.25
+
+SOFT SERVE
+Matcha Soft Serve — made with fresh milk — $6.50
+Matcha Vanilla Swirl — made with fresh milk — $6.50
+Espresso Affogato — vanilla soft serve, signature premium matcha, espresso shot — $6.75
+Matcha Affogato — vanilla soft serve, signature premium matcha, matcha shot — $6.75
+
+LIMITED SERIES
+Chocolate Hazelnut Matcha Latte — fresh dairy, chocolate hazelnut puree, double shot of matcha — $8.95 — currently out of stock
+Chocolate Hazelnut Matcha Blended — premium grade matcha, chocolate hazelnut puree, vanilla cream — $8.95 — currently out of stock
+
+RULE FOR THIS SOURCE
+Merge hot and cold versions of the same named drink into one unique menu item when the flavor, ingredients, and price are the same. Set both available_hot and available_iced true.

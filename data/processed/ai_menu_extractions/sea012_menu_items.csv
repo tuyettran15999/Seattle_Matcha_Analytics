@@ -1,0 +1,5 @@
+item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
+SEA012-AI-001,SEA012,Matcha,Matcha,Original,,True,,5.88,6.29,False,Oat; Almond; Coconut,,Official Website,https://yoka-tea.vercel.app/menu,2026-08-29,Matcha 5.88 / 6.29,Reviewed
+SEA012-AI-002,SEA012,Matcha Matcha,Matcha Smoothie,Original,,True,,6.39,6.79,False,Oat; Almond; Coconut,Japan,Official Website,https://yoka-tea.vercel.app/menu,2026-08-29,Matcha Matcha 6.39 / 6.79,Reviewed
+SEA012-AI-003,SEA012,Strawby Matcha,Matcha,Strawby,,True,,6.49,6.88,False,Oat; Almond; Coconut,,Official Website,https://yoka-tea.vercel.app/menu,2026-08-29,Strawby Matcha 6.49 / 6.88,Reviewed
+SEA012-AI-004,SEA012,Matcha Einspanner,Matcha,Original,,True,,6.29,6.79,False,Oat; Almond; Coconut,,Official Website,https://yoka-tea.vercel.app/menu,2026-08-29,Matcha Einspanner 6.29 / 6.79,Reviewed

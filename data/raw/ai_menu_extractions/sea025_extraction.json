@@ -1,0 +1,82 @@
+{
+  "response_id": "resp_07113224b0b32594016a937de1e5b887d0a7bf5d70c1294d4c",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA025",
+  "menu_url": "https://aroomers.com/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.75,
+        "max_price": 6.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Latte \u2014 homemade matcha sauce, milk \u2014 $6.75"
+      },
+      {
+        "drink_name": "Gloomy Matcha",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Gloomy Matcha \u2014 homemade matcha sauce, milk, sesame cream \u2014 $7.50"
+      },
+      {
+        "drink_name": "Banana Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Banana",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Banana Matcha \u2014 homemade matcha sauce, milk, banana cream \u2014 $7.50"
+      },
+      {
+        "drink_name": "Pandan Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Pandan",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Pandan Matcha \u2014 homemade matcha sauce, milk, pandan cream \u2014 $7.50"
+      }
+    ],
+    "extraction_notes": [
+      "No sizes, milk alternatives, matcha types, or hot availability are stated.",
+      "Sesame cream and banana cream are treated as secondary components; banana is retained because it is explicit in the official drink name."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1044,
+    "input_tokens_details": {
+      "cache_write_tokens": 1041,
+      "cached_tokens": 0
+    },
+    "output_tokens": 411,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1455
+  }
+}

@@ -1,0 +1,22 @@
+SOURCE: Official Yoka Tea menu image
+URL: https://yoka-tea.vercel.app/menu
+COLLECTED: 2026-08-29
+
+MATCHA
+Matcha 5.88 / 6.29
+Matcha Matcha 6.39 / 6.79
+Strawby Matcha 6.49 / 6.88
+Matcha Einspanner 6.29 / 6.79
+
+CREAMA OPTIONS
+Matcha
+Black Sesame
+Ube
+Yoka Whip
+$1
+
+MILK OPTIONS
+Oat / Almond / Coconut $1
+
+NOTE
+The official home page describes Matcha Matcha as a matcha smoothie made with matcha sourced from Japan.

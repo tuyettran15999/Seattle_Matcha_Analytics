@@ -1,0 +1,184 @@
+{
+  "response_id": "resp_03e89d477acf633d016a93360fb6b487d09a8af39ae2cfdee3",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA022",
+  "menu_url": "https://www.atulea.com/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha Americano",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 3.5,
+        "max_price": 3.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "organic ceremonial-grade matcha and water; iced and no sugar by default \u2014 $3.50"
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 4.5,
+        "max_price": 4.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "organic ceremonial-grade matcha and milk; iced and no sugar by default \u2014 $4.50"
+      },
+      {
+        "drink_name": "Matcha White Mocha",
+        "drink_category": "Matcha Latte",
+        "flavor": "White Chocolate",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 4.75,
+        "max_price": 4.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "organic ceremonial-grade matcha, milk, white chocolate; iced by default \u2014 $4.75"
+      },
+      {
+        "drink_name": "Turmeric Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Turmeric",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 4.75,
+        "max_price": 4.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "organic ceremonial-grade matcha, milk, turmeric; iced and no sugar by default \u2014 $4.75"
+      },
+      {
+        "drink_name": "Matcha Mocha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Dark Chocolate",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 4.75,
+        "max_price": 4.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "matcha, milk, dark chocolate \u2014 $4.75"
+      },
+      {
+        "drink_name": "Pineapple Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Pineapple",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.5,
+        "max_price": 5.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "organic ceremonial-grade matcha, milk, pineapple puree; iced only \u2014 $5.50"
+      },
+      {
+        "drink_name": "Dirty Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.25,
+        "max_price": 5.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Shizuoka"
+        ],
+        "evidence": "espresso, organic ceremonial-grade matcha, milk; iced and no sugar by default \u2014 $5.25"
+      },
+      {
+        "drink_name": "Butterfly Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": null,
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.25,
+        "max_price": 5.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "matcha, milk, minty butterfly pea flower tea; iced only \u2014 $5.25"
+      },
+      {
+        "drink_name": "Ube Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Ube",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.5,
+        "max_price": 5.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "matcha, milk, house-made ube halaya \u2014 $5.50"
+      },
+      {
+        "drink_name": "Matcha Rose Lemonade",
+        "drink_category": "Matcha Soda",
+        "flavor": "Rose Lemonade",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.5,
+        "max_price": 5.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "matcha with sparkling rose lemonade; iced only \u2014 $5.50"
+      }
+    ],
+    "extraction_notes": [
+      "The official retail description identifies the shop's ceremonial matcha as sourced from Shizuoka, Japan; this claim was applied to items explicitly described as using organic ceremonial-grade matcha.",
+      "Items without an explicit hot or iced-only statement default to available_iced true and available_hot null."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1240,
+    "input_tokens_details": {
+      "cache_write_tokens": 1237,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1522,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 2762
+  }
+}

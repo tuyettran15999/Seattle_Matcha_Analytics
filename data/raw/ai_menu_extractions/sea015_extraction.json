@@ -1,0 +1,85 @@
+{
+  "response_id": "resp_05488226ec312a71016a93352c34dc87d0a15080ee34c1f3ec",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA015",
+  "menu_url": "https://www.tamaribarseattle.com/food-1",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Premium Matcha Brulee",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Premium Matcha Brulee \u2014 matcha creme brulee made with premium Sugimoto Tea Company matcha \u2014 $7"
+      },
+      {
+        "drink_name": "Baiten Soft Serve - Matcha",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Baiten Soft Serve - Matcha \u2014 vanilla soft serve with Matcha syrup option \u2014 $7"
+      },
+      {
+        "drink_name": "Frozen Cookie Sandwich - Matcha",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Frozen Cookie Sandwich - Matcha \u2014 Matcha tea cookie option; subject to availability \u2014 $7"
+      },
+      {
+        "drink_name": "Hot Matcha Tea",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 3.0,
+        "max_price": 3.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Hot Matcha Tea \u2014 Matcha tea option \u2014 $3"
+      }
+    ],
+    "extraction_notes": [
+      "Baiten Soft Serve - Matcha is described as vanilla soft serve with a matcha syrup option; no separate flavor was inferred.",
+      "Frozen Cookie Sandwich - Matcha is explicitly marked subject to availability.",
+      "Hot Matcha Tea is explicitly hot; iced availability is not stated."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1101,
+    "input_tokens_details": {
+      "cache_write_tokens": 1098,
+      "cached_tokens": 0
+    },
+    "output_tokens": 724,
+    "output_tokens_details": {
+      "reasoning_tokens": 301
+    },
+    "total_tokens": 1825
+  }
+}

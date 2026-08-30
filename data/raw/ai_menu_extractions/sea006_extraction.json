@@ -1,0 +1,311 @@
+{
+  "response_id": "resp_038ff878e910aeee016a93323246d887d08d62a36ba4475900",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA006",
+  "menu_url": "https://www.itsmatchamagic.com/menus/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Ceremonial Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Our ceremonial matcha traditionally prepared with water."
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + milk, lightly sweetened."
+      },
+      {
+        "drink_name": "Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + house-made strawberry puree + milk."
+      },
+      {
+        "drink_name": "Matcha Horchata",
+        "drink_category": "Matcha",
+        "flavor": "Horchata",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + house-made horchata."
+      },
+      {
+        "drink_name": "Toasted MatchaMallow Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Toasted Marshmallow",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + marshmallow + milk + toasted marshmallow."
+      },
+      {
+        "drink_name": "Matcha Colada",
+        "drink_category": "Matcha Latte",
+        "flavor": "Pineapple; Coconut",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + house-made pineapple puree + coconut + milk."
+      },
+      {
+        "drink_name": "Purple Rain",
+        "drink_category": "Matcha Latte",
+        "flavor": "Lavender; Ube",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Lavender + ube + milk + matcha sweet cream."
+      },
+      {
+        "drink_name": "Matcha Lemonade",
+        "drink_category": "Matcha",
+        "flavor": "Lemon",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + lemonade."
+      },
+      {
+        "drink_name": "Double Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + milk + matcha sweet cream."
+      },
+      {
+        "drink_name": "Banana Cream Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Banana; Cinnamon",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + milk + banana sweet cream + dash of cinnamon."
+      },
+      {
+        "drink_name": "Matcha Magic Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + cordyceps + lion's mane + milk, lightly sweetened."
+      },
+      {
+        "drink_name": "Magic Mocha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Cacao; Vanilla; Cinnamon",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + cacao + maca + reishi + vanilla + cinnamon + milk."
+      },
+      {
+        "drink_name": "Caramel Maca-iato",
+        "drink_category": "Matcha Latte",
+        "flavor": "Caramel; Vanilla",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + collagen + maca + reishi + vanilla + milk + caramel sauce."
+      },
+      {
+        "drink_name": "Blueberry Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Blueberry; Lavender",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha + blue spirulina + blueberry puree + lavender + milk."
+      },
+      {
+        "drink_name": "Banana Matcha",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Banana; Coconut",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [
+          "Organic 2%",
+          "Oat",
+          "Soy",
+          "Coconut",
+          "house-made almond"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha, banana and organic milk, swirled with coconut cream."
+      }
+    ],
+    "extraction_notes": [
+      "The official brand menu does not publish prices, sizes, or temperature availability.",
+      "Milk options are listed globally on the menu and were applied to drinks containing milk or organic milk; they were not applied to water- or lemonade-based items.",
+      "No item explicitly states carbonation, so Matcha Lemonade was categorized as Matcha rather than Matcha Soda."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1215,
+    "input_tokens_details": {
+      "cache_write_tokens": 1212,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2009,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3224
+  }
+}

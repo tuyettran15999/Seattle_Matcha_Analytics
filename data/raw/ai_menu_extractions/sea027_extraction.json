@@ -1,0 +1,176 @@
+{
+  "response_id": "resp_08a9024df4e7869f016a937df3478087d0a73c56307beb6f5d",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA027",
+  "menu_url": "https://toast.app/r/cu-urban-market-cafe-1117-1st-avenue/order",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Jeju Matcha Cream Coffee",
+        "drink_category": "Matcha Latte",
+        "flavor": "Coffee",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "hot 16 oz",
+          "hot 20 oz",
+          "iced 16 oz",
+          "iced 24 oz",
+          "iced 32 oz"
+        ],
+        "min_price": 7.49,
+        "max_price": 7.49,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Jeju Matcha Cream Coffee \u2014 matcha latte with espresso, topped with signature matcha cream \u2014 $7.49"
+      },
+      {
+        "drink_name": "Jeju Korean Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.59,
+        "max_price": 5.59,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Korean",
+          "Jeju"
+        ],
+        "evidence": "premium authentic Korean matcha from Jeju Island \u2014 $5.59"
+      },
+      {
+        "drink_name": "Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.49,
+        "max_price": 6.49,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Strawberry Matcha Latte \u2014 $6.49"
+      },
+      {
+        "drink_name": "Banana Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Banana",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.49,
+        "max_price": 6.49,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Banana Matcha Latte \u2014 $6.49"
+      },
+      {
+        "drink_name": "Mango Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Mango",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.99,
+        "max_price": 6.99,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Mango Matcha Latte \u2014 $6.99 \u2014 currently out of stock"
+      },
+      {
+        "drink_name": "Japanese Ceremonial Matcha Latte (Unsweetened)",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.49,
+        "max_price": 6.49,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Japanese",
+          "Ceremonial"
+        ],
+        "evidence": "Japanese Ceremonial Matcha Latte (Unsweetened) \u2014 $6.49"
+      },
+      {
+        "drink_name": "Coconut Matcha Cloud",
+        "drink_category": "Matcha Latte",
+        "flavor": "Coconut",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.49,
+        "max_price": 6.49,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Soy"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Coconut Matcha Cloud \u2014 $6.49 \u2014 currently out of stock"
+      },
+      {
+        "drink_name": "Matcha Green Tea Macaron",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial",
+          "Sugimoto"
+        ],
+        "evidence": "Matcha Green Tea Macaron \u2014 ceremonial-grade Sugimoto matcha \u2014 price not published on the menu page"
+      }
+    ],
+    "extraction_notes": [
+      "Mango Matcha Latte and Coconut Matcha Cloud are explicitly marked currently out of stock but are retained as menu items.",
+      "General coffee and cream-coffee size ranges were applied only to Jeju Matcha Cream Coffee; no sizes were assigned to the other matcha lattes because none were explicitly stated.",
+      "The listed Oat and Soy alternatives were treated as applicable milk options for the milk-based matcha drinks; the $0.80 surcharge was excluded from base prices.",
+      "Jeju and Korean were retained as matcha origin/type claims from the menu wording."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1252,
+    "input_tokens_details": {
+      "cache_write_tokens": 1249,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1271,
+    "output_tokens_details": {
+      "reasoning_tokens": 359
+    },
+    "total_tokens": 2523
+  }
+}

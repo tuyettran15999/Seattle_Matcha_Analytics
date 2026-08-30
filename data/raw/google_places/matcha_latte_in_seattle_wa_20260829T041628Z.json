@@ -1,0 +1,430 @@
+{
+  "places": [
+    {
+      "id": "ChIJRQ55ea8VkFQRooTMPmyxckw",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "4524 University Wy NE, Seattle, WA 98105",
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=5508660372695712930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://drinkgrean.com/",
+      "userRatingCount": 121,
+      "displayName": {
+        "text": "Grean Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJMesSl2YVkFQR9cjxPkeMS_g",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "500 Fairview Ave N, Seattle, WA 98109",
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17891548182286026997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.itsmatchamagic.com/",
+      "userRatingCount": 309,
+      "displayName": {
+        "text": "Matcha Magic SLU",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJn_YYQXkVkFQRe1gVLs8eJyM",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1514 4th Ave, Seattle, WA 98101",
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=2533027190599407739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tazseattle.com/",
+      "userRatingCount": 384,
+      "displayName": {
+        "text": "Taz Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJgRGSPgAVkFQRbrop5Z87pSc",
+      "types": [
+        "cafe",
+        "dessert_shop",
+        "coffee_shop",
+        "confectionery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5200 Roosevelt Way NE Ste A, Seattle, WA 98105",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2856755096567003758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 145,
+      "displayName": {
+        "text": "Mina\u2019s Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJq8-wWk1rkFQRM6WEAOx7x2k",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1530 11th Ave, Seattle, WA 98122",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=7622197147899045171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.itsmatchamagic.com/",
+      "userRatingCount": 448,
+      "displayName": {
+        "text": "Matcha Magic Capitol Hill",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJd1f3fGoVkFQRz0eZTCdX2zc",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "2000 Terry Ave, Seattle, WA 98121",
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4024906518286125007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.valematcha.com/",
+      "userRatingCount": 196,
+      "displayName": {
+        "text": "Vale Matcha & Coffee",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    },
+    {
+      "id": "ChIJU6O0Y_1rkFQRw0BduR7xyBU",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "107 1st Ave S, Seattle, WA 98104",
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=1569769584399827139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lunesglow.com/",
+      "userRatingCount": 1332,
+      "displayName": {
+        "text": "Lune Cafe",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJvX0IVpcVkFQRHg_Fmpiexvw",
+      "types": [
+        "japanese_curry_restaurant",
+        "tea_house",
+        "ice_cream_shop",
+        "dessert_shop",
+        "japanese_restaurant",
+        "confectionery",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1007 Stewart St #103, Seattle, WA 98101",
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=18214420121215373086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nanasgreenteawa.com/",
+      "userRatingCount": 2023,
+      "displayName": {
+        "text": "Nana\u2019s Green Tea",
+        "languageCode": "en"
+      },
+      "primaryType": "dessert_shop"
+    },
+    {
+      "id": "ChIJN4c5U7ZrkFQR3DAWF5IiimM",
+      "types": [
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "bar",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "210 Occidental Ave S, Seattle, WA 98104",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=7172583367388836060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.publichouseseattle.com/",
+      "userRatingCount": 93,
+      "displayName": {
+        "text": "Public House",
+        "languageCode": "en"
+      },
+      "primaryType": "restaurant"
+    },
+    {
+      "id": "ChIJdxfOMSYVkFQRT283uS_dls4",
+      "types": [
+        "coffee_shop",
+        "tea_house",
+        "breakfast_restaurant",
+        "cafe",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "100 4th Ave N Ste 165, Seattle, WA 98109",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=14886328815360372559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://chacoffeeandtea.com/",
+      "userRatingCount": 312,
+      "displayName": {
+        "text": "Chaco Coffee & Tea",
+        "languageCode": "zh"
+      },
+      "primaryType": "coffee_shop"
+    },
+    {
+      "id": "ChIJGy4McgBrkFQRdryDJRlK9dA",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1325 4th Ave #1230, Seattle, WA 98101",
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15057022401047149686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 59,
+      "displayName": {
+        "text": "Jin Jin Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    },
+    {
+      "id": "ChIJ31EeKlhtkFQRT6p6o27OBD8",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "10246 Main St A, Bellevue, WA 98004",
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=4540981298880752207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.itsmatchamagic.com/",
+      "userRatingCount": 562,
+      "displayName": {
+        "text": "Matcha Magic Bellevue",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJvful7UFrkFQR0OhobFnU_fs",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "904 Alaskan Wy, Seattle, WA 98104",
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=18157902753163700432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://aroomers.com/",
+      "userRatingCount": 257,
+      "displayName": {
+        "text": "Aroom Coffee Waterfront",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    },
+    {
+      "id": "ChIJnQvknrJrkFQRKsC9rvTlX1Y",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "722 E Pike St Ste 110, Seattle, WA 98122",
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=6223946049115766826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://junbishop.com/",
+      "userRatingCount": 108,
+      "displayName": {
+        "text": "Junbi Matcha & Tea - Seattle",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJOTVu5NFrkFQRvAtWzY-Iwtw",
+      "types": [
+        "cafe",
+        "tea_house",
+        "coffee_shop",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1715 12th Ave #100, Seattle, WA 98122",
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15907426985032682428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://shopatulea.com/",
+      "userRatingCount": 398,
+      "displayName": {
+        "text": "Atulea",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJJ7opW15rkFQRpE4PHo9qP7A",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1117 1st Ave, Seattle, WA 98101",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=12699986637125275300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cumnc.com/",
+      "userRatingCount": 207,
+      "displayName": {
+        "text": "CU URBAN MARKET & CAFE",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJPZxNkZ1rkFQREOhvtKhmGo4",
+      "types": [
+        "coffee_shop",
+        "coffee_roastery",
+        "sandwich_shop",
+        "cafe",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1227 S Weller St, Seattle, WA 98144",
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=10239609577548015632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.helloem.coffee/",
+      "userRatingCount": 757,
+      "displayName": {
+        "text": "Hello Em Vi\u1ec7t Coffee & Roastery",
+        "languageCode": "en"
+      },
+      "primaryType": "coffee_shop"
+    },
+    {
+      "id": "ChIJ0630IAAVkFQRO86TGVmF288",
+      "types": [
+        "restaurant",
+        "dessert_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "4524 University Wy NE, Seattle, WA 98105",
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=14977711603478416955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.elixirseattle.net/",
+      "userRatingCount": 70,
+      "displayName": {
+        "text": "Elixir",
+        "languageCode": "en"
+      },
+      "primaryType": "restaurant"
+    },
+    {
+      "id": "ChIJqTPr5FxrkFQRIgTFZDo3zfQ",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1101 34th Ave, Seattle, WA 98122",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=17639816039418364962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 256,
+      "displayName": {
+        "text": "Yoka Tea",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJrSeqgMVBkFQRnqiExQNhuY8",
+      "types": [
+        "ice_cream_shop",
+        "dessert_shop",
+        "cafe",
+        "confectionery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "6014 12th Ave S, Seattle, WA 98108",
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=10356415486941767838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 485,
+      "displayName": {
+        "text": "Matcha Man Ice Cream & Taiyaki",
+        "languageCode": "en"
+      },
+      "primaryType": "ice_cream_shop"
+    }
+  ],
+  "nextPageToken": "AVoNoXRanx37KdBI17e0_GdRU-NE4vD2lqVWikaKeRcdxB9Yf5m1TLibHoWqxTHYVD0XflErm5mmM3AzTGNd7IU5Hn9o6NYUIWLnY7vHmdp9tFgdUzE43DIZURs3tjREBd9CBy2MTlvfK6df6CqsKZcIjf3-k1_qdkhFMHgC1paBIsYDNHJdto3MoevW8mqaEmnASU6n71hFNxjeo10BaTbc5EUDMC2iO779HPeqKE_97yeGwgDqfBbLXbV5xPVhehkjq1JCjUwtdWUVxOvGFOqB4aOfq9RVu4NLO-dV67qkejw_AUop2hitfxvg0N5Vlr3RKOlR52_jMREcN--HObU6byPo-H8CPZmMXggi5VnUZLydhrGfRp_FHiL2v6GFIZzkFAKtegK2xHci2zaxkFz5h8_vjG67tdzdvs5egcWlUuB7RaJADfi1lH3nKQeBYm2djTH3SNaIuAxooTYvlKy42vh-pOjUd-5JFW71snQgcP_LrIsT3sQGi6jYbDTVeCrG4_AmX2qogqdg4yggnGgX1KtQumoDbcdOMVBFGxK7KOEUiBjFOe5XGKBNgpCziaqqkYWb7gu7Xk1Gq9oCq61jUnVKhWWZHHoC2Flvbf1HwBDfj9PuW58iggtNG7Qmt2zQzyyBdzFayY1mc5-zTtRCmp-fx-EURylUOv6Jl40Z9a3uYkEI5_voA00Vky4I_RJz9HNP-nTuUga3EtspBZsgSDEsMIpLog7vrPxlHiuT2rP83qxqaDOinVxCDDHeoAkWZBxE_4uD496-MlsA8TJr0ZbvaMZWGjGv1dkwBc28ZR8ppU5SUBJr9bXkix8rYPLIqvlUEGWtIKVO"
+}

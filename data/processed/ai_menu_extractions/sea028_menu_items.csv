@@ -1,0 +1,2 @@
+item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
+SEA028-AI-001,SEA028,Earl Grey Matcha Latte,Matcha Latte,Earl Grey,,True,,8.0,8.0,False,,Ceremonial,Official Site + Current Observation,https://www.howdyyallcoffee.com/,2026-08-29,Earl Grey Matcha Latte — $8.00 — alternative milk available at no extra charge,Reviewed

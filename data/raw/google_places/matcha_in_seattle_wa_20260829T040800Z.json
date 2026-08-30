@@ -1,0 +1,104 @@
+{
+  "places": [
+    {
+      "id": "ChIJMesSl2YVkFQR9cjxPkeMS_g",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "500 Fairview Ave N, Seattle, WA 98109",
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17891548182286026997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.itsmatchamagic.com/",
+      "userRatingCount": 309,
+      "displayName": {
+        "text": "Matcha Magic SLU",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJRQ55ea8VkFQRooTMPmyxckw",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "4524 University Wy NE, Seattle, WA 98105",
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=5508660372695712930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://drinkgrean.com/",
+      "userRatingCount": 121,
+      "displayName": {
+        "text": "Grean Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJgRGSPgAVkFQRbrop5Z87pSc",
+      "types": [
+        "cafe",
+        "dessert_shop",
+        "coffee_shop",
+        "confectionery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "5200 Roosevelt Way NE Ste A, Seattle, WA 98105",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2856755096567003758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 145,
+      "displayName": {
+        "text": "Mina\u2019s Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJq8-wWk1rkFQRM6WEAOx7x2k",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1530 11th Ave, Seattle, WA 98122",
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=7622197147899045171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.itsmatchamagic.com/",
+      "userRatingCount": 448,
+      "displayName": {
+        "text": "Matcha Magic Capitol Hill",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    },
+    {
+      "id": "ChIJn_YYQXkVkFQRe1gVLs8eJyM",
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1514 4th Ave, Seattle, WA 98101",
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=2533027190599407739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tazseattle.com/",
+      "userRatingCount": 384,
+      "displayName": {
+        "text": "Taz Matcha",
+        "languageCode": "en"
+      },
+      "primaryType": "cafe"
+    }
+  ],
+  "nextPageToken": "AVoNoXT0pCo17CBOC3_aRALt6lQ-zZ4_KWHEf5X3DVF7Wk8gWfx2AFzjHNgYmfkjxoKnxqd5ARWkNT3Q-8N8D_39HTxGU6XRyzj6V4qDFMEjxYvo0Ot8dU7goZynFf4XjHuixMn2wEAoDtEUBrd86Akxf0rPQFbLqfXct64IHOXBCAX97ONQDCNETub5w1a8oGtzchRjE8ulHADTrvxRwpaN1Zwj77GsEa19QjoGNdwIC-KLQu27eNPYUMtxpRQWxAMgcqFBF7A"
+}

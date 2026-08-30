@@ -1,0 +1,63 @@
+{
+  "response_id": "resp_04b1f8bdf9d6bd71016a93357c115887d0bc97cc27448ac70b",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA020",
+  "menu_url": "https://www.helloem.coffee/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Tra Matcha Dua",
+        "drink_category": "Matcha",
+        "flavor": "Pandan",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [
+          ""
+        ],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Tra Matcha Dua \u2014 whipped ceremonial matcha, cream, pandan with coconut water \u2014 cold only \u2014 $8.25"
+      },
+      {
+        "drink_name": "Tra Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "your choice of milk"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Tra Matcha Latte \u2014 ceremonial matcha with your choice of milk \u2014 12 oz hot or cold \u2014 $7.50"
+      }
+    ],
+    "extraction_notes": [
+      "Tra Matcha Dua has no explicit size; sizes is represented as an empty string because the schema requires a size entry only when stated."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1066,
+    "input_tokens_details": {
+      "cache_write_tokens": 1063,
+      "cached_tokens": 0
+    },
+    "output_tokens": 253,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1319
+  }
+}

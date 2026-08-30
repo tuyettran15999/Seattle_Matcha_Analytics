@@ -1,0 +1,41 @@
+{
+  "response_id": "resp_0fb3c82ff9fe7853016a937e0126a087d0a8b65f92aef9a951",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA028",
+  "menu_url": "https://www.howdyyallcoffee.com/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Earl Grey Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Earl Grey",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Earl Grey Matcha Latte \u2014 $8.00 \u2014 alternative milk available at no extra charge"
+      }
+    ],
+    "extraction_notes": [
+      "Alternative milk is mentioned, but specific milk types are not listed, so milk_options is empty."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1066,
+    "input_tokens_details": {
+      "cache_write_tokens": 1063,
+      "cached_tokens": 0
+    },
+    "output_tokens": 133,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1199
+  }
+}

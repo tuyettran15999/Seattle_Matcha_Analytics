@@ -1,0 +1,57 @@
+{
+  "response_id": "resp_0f68afbe9575a87f016a93360a7ad087d0bb20ebce3433c05e",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA021",
+  "menu_url": "https://www.ohbearcafe.com/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Kyoto Uji Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "large"
+        ],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [
+          "Non-dairy milk"
+        ],
+        "matcha_type_claim": [
+          "Uji"
+        ],
+        "evidence": "Kyoto Uji Matcha Latte \u2014 new \u2014 large 709 ml \u2014 $6.50"
+      },
+      {
+        "drink_name": "Matcha Red Bean Crepe",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Red bean",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 10.5,
+        "max_price": 10.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Red Bean Crepe \u2014 matcha custard, whipped cream, red bean, corn flakes, almonds, strawberry, matcha ice cream, chocolate pocky sticks \u2014 $10.50"
+      }
+    ],
+    "extraction_notes": []
+  },
+  "usage": {
+    "input_tokens": 1053,
+    "input_tokens_details": {
+      "cache_write_tokens": 1050,
+      "cached_tokens": 0
+    },
+    "output_tokens": 424,
+    "output_tokens_details": {
+      "reasoning_tokens": 188
+    },
+    "total_tokens": 1477
+  }
+}

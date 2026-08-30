@@ -1,0 +1,47 @@
+shop_id,drink_name,field,value,reason
+SEA004,Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Sakura Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Sakura Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Lavender Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Lavender Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Rose Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Rose Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Chai Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Chai Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Vanilla Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Vanilla Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Strawberry Matcha Latte,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Strawberry Matcha Latte,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Coconut Matcha Cloud,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Coconut Matcha Cloud,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA004,Calamansi Matcha Soda,price_is_starting,true,Official menu displays a plus sign after the starting price
+SEA004,Calamansi Matcha Soda,max_price,__NULL__,Official menu does not publish the maximum variant price
+SEA006,Matcha Horchata,drink_category,Matcha Latte,Horchata is the milk-style base of this menu drink
+SEA009,Strawberry Matcha,drink_category,Matcha Latte,General menu note states oat milk is included in all drinks
+SEA009,Banana Bread Matcha,drink_category,Matcha Latte,General menu note states oat milk is included in all drinks
+SEA009,Strawberry Jasmine Matcha,drink_category,Matcha Latte,General menu note states oat milk is included in all drinks
+SEA009,Matcha Latte,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA009,Jasmine Matcha Latte,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA009,Strawberry Matcha,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA009,Matcha Cheese Top,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA009,Banana Bread Matcha,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA009,Strawberry Jasmine Matcha,matcha_type_claim,"Ceremonial; Saemidori; Okumidori; Nishio, Aichi",Preserve the complete origin claim from the official PDF
+SEA010,Matcha Warabimochi Frappe,flavor,Original,Brown sugar syrup is secondary and not the named primary flavor
+SEA010,Matcha Jelly Milkshake,flavor,Original,Chocolate sauce and Biscoff are toppings rather than the primary flavor
+SEA010,Matcha Mochi Parfait,flavor,Original,Red bean is one component and not the named primary flavor
+SEA010,Matcha Warabimochi Parfait,flavor,Original,Red bean is one component and not the named primary flavor
+SEA010,25th Year Matcha Anniversary Parfait,flavor,Original,No additional primary flavor is stated
+SEA013,Dirty Matcha Latte,flavor,Espresso,Espresso is a central named ingredient rather than a garnish
+SEA013,Dirty Matcha,flavor,Espresso,Espresso is a central named ingredient rather than a garnish
+SEA013,Matcha Affogato,flavor,Original,Matcha is the named primary flavor and no additional flavor is stated
+SEA019,Ceremonial Homare,flavor,Original,Plain named ceremonial matcha has no additional flavor
+SEA019,Ceremonial Yamabuki,flavor,Original,Plain named ceremonial matcha has no additional flavor
+SEA021,Kyoto Uji Matcha Latte,size,709 ml,The owner-posted menu explicitly states large 709 ml
+SEA022,Dirty Matcha,flavor,Espresso,Espresso is a central ingredient in the official description
+SEA022,Butterfly Matcha,flavor,Butterfly Pea,Butterfly pea flower tea is the named flavor component
+SEA025,Gloomy Matcha,drink_category,Matcha Latte,Official description includes milk
+SEA025,Gloomy Matcha,flavor,Sesame,Official description identifies sesame cream as the named flavor
+SEA025,Banana Matcha,drink_category,Matcha Latte,Official description includes milk
+SEA025,Pandan Matcha,drink_category,Matcha Latte,Official description includes milk
+SEA026,Jelly Matcha + Milk,drink_category,Matcha Latte,Milk is a central base of the drink

@@ -1,0 +1,4 @@
+shop_id,lookup_query,google_place_id,returned_name,returned_address
+SEA002,"The Moo Bar, 2124 Westlake Ave N, Seattle, WA 98121",ChIJIVJTHkoVkFQRm7fzo8NxBcI,The Moo Bar,"2124 Westlake Ave N, Seattle, WA 98121"
+SEA003,"Hey Tea, 910 John St, Seattle, WA 98109",ChIJrUM8bgAVkFQRHdrY8ZLEQuY,heytea (South Lake Union),"910 John St, Seattle, WA 98109"
+SEA005,"Drip Drip Coffeehouse, 355 15th Ave, Seattle, WA 98122",ChIJJylxcL9rkFQR5J62NetzofQ,Drip Drip coffeehouse,"355 15th Ave, Seattle, WA 98122"

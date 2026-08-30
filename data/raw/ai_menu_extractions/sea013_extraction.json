@@ -1,0 +1,374 @@
+{
+  "response_id": "resp_077c5feecfb74c8a016a933518a5e887d090d2a21e75f7a8fe",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA013",
+  "menu_url": "https://toast.app/r/junbi-seattle/order",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Matcha Latte \u2014 Fresh dairy & a double matcha shot \u2014 $7.25"
+      },
+      {
+        "drink_name": "Dirty Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Dirty Matcha Latte \u2014 Fresh dairy, double espresso shot, & a double matcha shot \u2014 $8.25"
+      },
+      {
+        "drink_name": "Guava Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Guava",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.75,
+        "max_price": 7.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Guava Matcha Latte \u2014 Fresh dairy, all-natural house-made guava puree, & a double shot of matcha \u2014 $7.75"
+      },
+      {
+        "drink_name": "Madagascar Vanilla Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Madagascar Vanilla",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Madagascar Vanilla Matcha Latte \u2014 Fresh dairy, Madagascar vanilla, & a double matcha shot \u2014 $7.50"
+      },
+      {
+        "drink_name": "Mango Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Mango",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Mango Matcha Latte \u2014 Fresh dairy, real mango puree, & a double shot of matcha \u2014 $7.50"
+      },
+      {
+        "drink_name": "Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Strawberry Matcha Latte \u2014 Fresh dairy, real strawberries, & a double matcha shot \u2014 $7.50"
+      },
+      {
+        "drink_name": "Ganbaru Ceremonial Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Cold Ganbaru Ceremonial Matcha Cold Brew \u2014 first harvest shade-grown matcha \u2014 $7.00"
+      },
+      {
+        "drink_name": "Chosen Ceremonial Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Cold Chosen Ceremonial Matcha Cold Brew \u2014 first harvest shade-grown matcha \u2014 $7.25"
+      },
+      {
+        "drink_name": "Dirty Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.75,
+        "max_price": 7.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Dirty Matcha Cold Brew \u2014 matcha with milk and double espresso \u2014 $7.75"
+      },
+      {
+        "drink_name": "Guava Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Guava",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Cold Guava Matcha Cold Brew \u2014 premium matcha and house-made guava puree \u2014 $7.50"
+      },
+      {
+        "drink_name": "Mango Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Mango",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Cold Mango Matcha Cold Brew \u2014 signature premium matcha and real mangoes \u2014 $7.25"
+      },
+      {
+        "drink_name": "Madagascar Vanilla Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Madagascar Vanilla",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Cold Madagascar Vanilla Matcha Cold Brew \u2014 premium matcha, Madagascar vanilla, and fresh dairy \u2014 $7.25"
+      },
+      {
+        "drink_name": "Strawberry Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Strawberry",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Cold Strawberry Matcha Cold Brew \u2014 premium matcha and real strawberries \u2014 $7.25"
+      },
+      {
+        "drink_name": "Yuzu Dragon Fruit Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Yuzu; Dragon Fruit",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Cold Yuzu Dragon Fruit Matcha Cold Brew \u2014 premium matcha, yuzu juice, and real dragon fruit \u2014 $7.50"
+      },
+      {
+        "drink_name": "Dirty Matcha Blended",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Espresso",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 9.0,
+        "max_price": 9.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Dirty Matcha Blended \u2014 premium matcha blended with vanilla cream and double espresso \u2014 $9.00"
+      },
+      {
+        "drink_name": "Matcha Blended",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium grade"
+        ],
+        "evidence": "Matcha Blended \u2014 premium grade matcha blended with vanilla cream \u2014 $8.00"
+      },
+      {
+        "drink_name": "Strawberry Matcha Blended",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium grade"
+        ],
+        "evidence": "Strawberry Matcha Blended \u2014 premium grade matcha, strawberry puree, vanilla cream \u2014 $8.25"
+      },
+      {
+        "drink_name": "Matcha Soft Serve",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Soft Serve \u2014 made with fresh milk \u2014 $6.50"
+      },
+      {
+        "drink_name": "Matcha Vanilla Swirl",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Vanilla",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Vanilla Swirl \u2014 made with fresh milk \u2014 $6.50"
+      },
+      {
+        "drink_name": "Espresso Affogato",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Espresso",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 6.75,
+        "max_price": 6.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Espresso Affogato \u2014 vanilla soft serve, signature premium matcha, espresso shot \u2014 $6.75"
+      },
+      {
+        "drink_name": "Matcha Affogato",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 6.75,
+        "max_price": 6.75,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium"
+        ],
+        "evidence": "Matcha Affogato \u2014 vanilla soft serve, signature premium matcha, matcha shot \u2014 $6.75"
+      },
+      {
+        "drink_name": "Chocolate Hazelnut Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Chocolate; Hazelnut",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Chocolate Hazelnut Matcha Latte \u2014 fresh dairy, chocolate hazelnut puree, double shot of matcha \u2014 $8.95"
+      },
+      {
+        "drink_name": "Chocolate Hazelnut Matcha Blended",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Chocolate; Hazelnut",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Premium grade"
+        ],
+        "evidence": "Chocolate Hazelnut Matcha Blended \u2014 premium grade matcha, chocolate hazelnut puree, vanilla cream \u2014 $8.95"
+      }
+    ],
+    "extraction_notes": [
+      "Hot and cold variants with matching ingredients and prices were merged into single items, using the non-temperature portion of the official names.",
+      "The two Chocolate Hazelnut items are marked currently out of stock in the source; no availability field exists for stock status.",
+      "Cold Brew and hot versions have slightly different official names, so the temperature/preparation qualifier was normalized while preserving the core drink name.",
+      "Dessert items have available_hot and available_iced set to null because the source does not state hot or iced availability."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1894,
+    "input_tokens_details": {
+      "cache_write_tokens": 1891,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2716,
+    "output_tokens_details": {
+      "reasoning_tokens": 423
+    },
+    "total_tokens": 4610
+  }
+}

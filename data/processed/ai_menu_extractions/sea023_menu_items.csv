@@ -1,0 +1,3 @@
+item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
+SEA023-AI-001,SEA023,Matcha Latte,Matcha Latte,Original,,True,,6.5,6.5,False,,Ceremonial; Japan,Owner-posted Menu,https://cochevalleydessertcafecap.square.site/,2026-08-29,Matcha Latte — ceremonial matcha from Japan — $6.50,Reviewed
+SEA023-AI-002,SEA023,Strawberry Matcha Latte,Matcha Latte,Strawberry,,True,,6.95,6.95,False,,Ceremonial,Owner-posted Menu,https://cochevalleydessertcafecap.square.site/,2026-08-29,Strawberry Matcha Latte — ceremonial matcha with strawberry puree — $6.95,Reviewed

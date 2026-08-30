@@ -1,0 +1,102 @@
+{
+  "response_id": "resp_0fb7f372ae312e49016a933510e69087d0b8b2da3bd8129239",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA012",
+  "menu_url": "https://yoka-tea.vercel.app/menu",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.88,
+        "max_price": 6.29,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Coconut"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha 5.88 / 6.29"
+      },
+      {
+        "drink_name": "Matcha Matcha",
+        "drink_category": "Matcha Smoothie",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.39,
+        "max_price": 6.79,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Coconut"
+        ],
+        "matcha_type_claim": [
+          "Japan"
+        ],
+        "evidence": "Matcha Matcha 6.39 / 6.79"
+      },
+      {
+        "drink_name": "Strawby Matcha",
+        "drink_category": "Matcha",
+        "flavor": "Strawby",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.49,
+        "max_price": 6.88,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Coconut"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Strawby Matcha 6.49 / 6.88"
+      },
+      {
+        "drink_name": "Matcha Einspanner",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.29,
+        "max_price": 6.79,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Coconut"
+        ],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Einspanner 6.29 / 6.79"
+      }
+    ],
+    "extraction_notes": [
+      "Each item has two listed prices, but the menu text does not identify the corresponding sizes.",
+      "The menu does not state hot or iced availability; iced was defaulted to true and hot to null for drinks.",
+      "The $1 creama options were treated as add-ons, not base-item prices or flavors.",
+      "Matcha Matcha is categorized as a Matcha Smoothie based on the explicit homepage note and includes Japan as the stated matcha origin."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1081,
+    "input_tokens_details": {
+      "cache_write_tokens": 1078,
+      "cached_tokens": 0
+    },
+    "output_tokens": 687,
+    "output_tokens_details": {
+      "reasoning_tokens": 209
+    },
+    "total_tokens": 1768
+  }
+}

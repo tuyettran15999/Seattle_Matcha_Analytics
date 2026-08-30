@@ -1,0 +1,71 @@
+{
+  "response_id": "resp_0596ae2e671f23c5016a93267c7e1087d0b95f3ddcdb38ca6d",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA001",
+  "menu_url": "https://www.itsmatchamagic.com/",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Ceremonial",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [
+          "12 oz",
+          "16 oz"
+        ],
+        "min_price": 7.0,
+        "max_price": 8.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Ceremonial-grade matcha prepared with water. Hot: 12 oz $7.00, 16 oz $8.00. Iced: 16 oz $8.00."
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": true,
+        "available_iced": true,
+        "sizes": [
+          "12 oz",
+          "16 oz"
+        ],
+        "min_price": 7.0,
+        "max_price": 8.0,
+        "milk_options": [
+          "Horchata",
+          "2%",
+          "Oat",
+          "Almond",
+          "Coconut",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Ceremonial-grade matcha with your choice of horchata, 2%, oat, almond, coconut, or soy milk. Hot: 12 oz $7.00, 16 oz $8.00. Iced: 16 oz $8.00."
+      },
+      {
+        "drink_name": "Strawberry Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 9.0,
+        "max_price": 9.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Ceremonial matcha latte with strawberry. Iced only, 16 oz, $9.00."
+      }
+    ],
+    "extraction_notes": []
+  }
+}

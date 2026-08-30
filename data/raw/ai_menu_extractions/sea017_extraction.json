@@ -1,0 +1,114 @@
+{
+  "response_id": "resp_0e84ffd8eab89771016a93356c5cf487d09b7978f12b7c437f",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA017",
+  "menu_url": "https://www.toasttab.com/local/order/elixir-cafe-4524-university-way-ne/item-cardamom-rose-matcha_51c5b3ca-5b51-484e-bc8d-7e62a4d6692c",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Vanilla Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Vanilla",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Sugimoto"
+        ],
+        "evidence": "Vanilla Matcha \u2014 house-made vanilla syrup with Sugimoto Matcha \u2014 $7.00"
+      },
+      {
+        "drink_name": "Strawberry Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Sugimoto"
+        ],
+        "evidence": "Strawberry Matcha \u2014 local strawberries, house-made simple syrup, Sugimoto Matcha \u2014 $8.00"
+      },
+      {
+        "drink_name": "Cardamom Rose Matcha",
+        "drink_category": "Matcha Latte",
+        "flavor": "Cardamom; Rose",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "price_is_starting": false,
+        "milk_options": [
+          "Oat",
+          "Almond",
+          "Soy"
+        ],
+        "matcha_type_claim": [
+          "Sugimoto"
+        ],
+        "evidence": "Cardamom Rose Matcha \u2014 house-made cardamom and rose syrup with Sugimoto Matcha \u2014 $7.00"
+      },
+      {
+        "drink_name": "Mad Tea Party",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 12.0,
+        "max_price": 12.0,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Mad Tea Party \u2014 matcha cake, London Fog ice cream, lavender shortbread crumbles, cucumber dill gel, raspberry yuzu sauce \u2014 $12.00"
+      },
+      {
+        "drink_name": "Matcha Strawberry Parfait",
+        "drink_category": "Matcha Dessert",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 11.5,
+        "max_price": 11.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Strawberry Parfait \u2014 matcha ice cream, strawberry compote, lavender shortbread crumble, whipped cream \u2014 $11.50"
+      }
+    ],
+    "extraction_notes": [
+      "The menu labels the first section \u201cICED MATCHA LATTE\u201d; hot availability is therefore false and iced availability is true for those items.",
+      "Alt milk options are listed separately as +$1.00 and are not included in base prices."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1216,
+    "input_tokens_details": {
+      "cache_write_tokens": 1213,
+      "cached_tokens": 0
+    },
+    "output_tokens": 586,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1802
+  }
+}

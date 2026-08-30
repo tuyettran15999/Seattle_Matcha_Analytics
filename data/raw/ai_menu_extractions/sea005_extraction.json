@@ -1,0 +1,209 @@
+{
+  "response_id": "resp_09b9d0eb3cae7cf9016a932cbe7bd887d09dd792cb1619f94c",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA005",
+  "menu_url": "https://drip-drip-coffeehouse-seattle.cloveronline.com/menu/all",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha-O-Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha-O-Latte - $7.25; Matcha, oat milk, and sugarcane."
+      },
+      {
+        "drink_name": "Matcha Banana Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Banana",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Banana Latte - $8.25; paired with our in-house banana foam"
+      },
+      {
+        "drink_name": "Matcha Strawberry Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Strawberry Latte - $8.25; paired with our in-house strawberry jam foam."
+      },
+      {
+        "drink_name": "Matcha Mango Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Mango",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Mango Latte - $8.25; paired with our in-house mango foam."
+      },
+      {
+        "drink_name": "Matcha Salted Cheese Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Salted Cheese",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Salted Cheese Latte - $8.25"
+      },
+      {
+        "drink_name": "Matcha Non-Dairy Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Non-Dairy Latte - $8.25; NON-DAIRY"
+      },
+      {
+        "drink_name": "Matcha Creme Brulee Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Creme Brulee",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Creme Brulee Latte - $8.25"
+      },
+      {
+        "drink_name": "Matcha Salted Egg Yolk Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Salted Egg Yolk",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Salted Egg Yolk Latte - $8.50"
+      },
+      {
+        "drink_name": "Matcha Sesame Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Sesame",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Sesame Latte - $8.25; paired with our in-house sesame foam."
+      },
+      {
+        "drink_name": "Matcha Blossom Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Cherry Blossom",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Blossom Latte - $8.25; cherry blossom/sakura foam."
+      },
+      {
+        "drink_name": "Double Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Pandan",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Double Matcha Latte - $8.25; Matcha, oat milk, sugarcane, pandan"
+      },
+      {
+        "drink_name": "Matcha Taro/Ube Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Taro/Ube",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.25,
+        "max_price": 8.25,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Taro/Ube Latte - $8.25; taro ube foam."
+      },
+      {
+        "drink_name": "Matcha Cloud",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Cloud - $6.50"
+      }
+    ],
+    "extraction_notes": [
+      "No sizes or explicit hot/iced choices were provided; iced availability follows the specified default for non-dessert drinks.",
+      "Milk ingredients and non-dairy labels were not treated as milk options because no selectable milk alternatives were listed.",
+      "Matcha Cloud has no description, so its flavor and preparation details remain unknown."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1391,
+    "input_tokens_details": {
+      "cache_write_tokens": 1388,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1598,
+    "output_tokens_details": {
+      "reasoning_tokens": 373
+    },
+    "total_tokens": 2989
+  }
+}

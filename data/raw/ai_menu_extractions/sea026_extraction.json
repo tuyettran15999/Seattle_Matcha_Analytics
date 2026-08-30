@@ -1,0 +1,110 @@
+{
+  "response_id": "resp_0932e709444a1fbb016a937de7f0f487d0a66dbd1e0f9c68bc",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA026",
+  "menu_url": "https://www.kotocoffee.com/menu",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Jelly Matcha + Milk",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 7.35,
+        "max_price": 7.35,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Japan"
+        ],
+        "evidence": "Jelly Matcha + Milk \u2014 classic jelly matcha with choice of milk \u2014 12 oz \u2014 $7.35"
+      },
+      {
+        "drink_name": "Jelly Matcha + Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Japan"
+        ],
+        "evidence": "Jelly Matcha + Matcha Latte \u2014 jelly matcha, choice of milk, matcha syrup \u2014 12 oz \u2014 $8.95"
+      },
+      {
+        "drink_name": "Jelly Milk + Matcha Syrup",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [
+          "12 oz"
+        ],
+        "min_price": 8.55,
+        "max_price": 8.55,
+        "price_is_starting": false,
+        "milk_options": [
+          "Whole"
+        ],
+        "matcha_type_claim": [
+          "Japan"
+        ],
+        "evidence": "Jelly Milk + Matcha Syrup \u2014 jelly milk with matcha syrup \u2014 12 oz \u2014 $8.55"
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.5,
+        "max_price": 6.5,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Latte \u2014 $6.50"
+      },
+      {
+        "drink_name": "Matcha Cookie",
+        "drink_category": "Matcha Dessert",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [],
+        "min_price": 3.95,
+        "max_price": 3.95,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Matcha Cookie \u2014 $3.95"
+      }
+    ],
+    "extraction_notes": [
+      "The menu says Jelly Matcha drinks offer a choice of milk, but does not publish the individual milk choices, so milk_options is left empty for those drinks.",
+      "The Japan matcha claim is explicitly stated for KOTO's jellies and is applied to the jelly matcha items only."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1141,
+    "input_tokens_details": {
+      "cache_write_tokens": 1138,
+      "cached_tokens": 0
+    },
+    "output_tokens": 946,
+    "output_tokens_details": {
+      "reasoning_tokens": 402
+    },
+    "total_tokens": 2087
+  }
+}

@@ -1,0 +1,12 @@
+SOURCE: Official Tamari Bar / Baiten food and drink menus
+FOOD URL: https://www.tamaribarseattle.com/food-1
+DRINK URL: https://www.tamaribarseattle.com/drink-1
+COLLECTED: 2026-08-29
+
+Premium Matcha Brulee — matcha creme brulee made with premium Sugimoto Tea Company matcha — $7
+Baiten Soft Serve - Matcha — vanilla soft serve with Matcha syrup option — $7
+Frozen Cookie Sandwich - Matcha — Matcha tea cookie option; subject to availability — $7
+Hot Matcha Tea — Matcha tea option — $3
+
+EXCLUDE
+Alcoholic matcha drinks and items where matcha is only a garnish or seasoning are outside this project scope.

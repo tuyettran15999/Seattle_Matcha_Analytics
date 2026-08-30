@@ -1,0 +1,6 @@
+item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
+SEA024-AI-001,SEA024,Matcha Paradise,Matcha,,,True,,,,False,,,Official Website,https://yuuteacafe.net/products/matcha-series,2026-08-29,M1 Matcha Paradise,Reviewed
+SEA024-AI-002,SEA024,Golden Matcha,Matcha,,,True,,,,False,,,Official Website,https://yuuteacafe.net/products/matcha-series,2026-08-29,M2 Golden Matcha,Reviewed
+SEA024-AI-003,SEA024,Matcha Forest,Matcha,,,True,,,,False,,,Official Website,https://yuuteacafe.net/products/matcha-series,2026-08-29,M3 Matcha Forest,Reviewed
+SEA024-AI-004,SEA024,Matchamisu,Matcha,,,True,,,,False,,,Official Website,https://yuuteacafe.net/products/matcha-series,2026-08-29,M4 Matchamisu,Reviewed
+SEA024-AI-005,SEA024,King Matcha,Matcha,,,True,,,,False,,,Official Website,https://yuuteacafe.net/products/matcha-series,2026-08-29,M5 King Matcha,Reviewed

@@ -1,0 +1,263 @@
+{
+  "response_id": "resp_04fff56a917ea1b0016a932834ec6487d0bd05438ae3fb2351",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA008",
+  "menu_url": "https://www.minasmatcha.com/s/Minas_Matcha_Menu.pdf",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Classic Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Classic Matcha Latte - $8.00\nmatcha, organic agave, milk"
+      },
+      {
+        "drink_name": "Double Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 9.0,
+        "max_price": 9.0,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Double Matcha Latte - $9.00\nmatcha, organic agave, milk, matcha cream top"
+      },
+      {
+        "drink_name": "Vanilla Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Vanilla",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Vanilla Matcha Latte - $8.50\nmatcha, vanilla syrup, milk"
+      },
+      {
+        "drink_name": "Lavender Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Lavender",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Lavender Matcha Latte - $8.50\nmatcha, lavender syrup, milk"
+      },
+      {
+        "drink_name": "Earl Grey Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Earl Grey",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Earl Grey Matcha Latte - $8.95\nmatcha, house made earl grey syrup, milk"
+      },
+      {
+        "drink_name": "Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Strawberry Matcha Latte - $8.95\nmatcha, house made strawberry puree, milk, strawberry cream top"
+      },
+      {
+        "drink_name": "Ube Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Ube",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Ube Matcha Latte - $8.95\nmatcha, organic agave, milk, ube cream top"
+      },
+      {
+        "drink_name": "Brown Sugar Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Brown Sugar",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 8.95,
+        "max_price": 8.95,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Brown Sugar Matcha Latte - $8.95\nmatcha, house made brown sugar syrup, milk"
+      },
+      {
+        "drink_name": "Banana Pudding Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Banana Pudding",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 11.5,
+        "max_price": 11.5,
+        "milk_options": [
+          "milk",
+          "oat milk",
+          "almond milk",
+          "corn milk"
+        ],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Banana Pudding Matcha Latte - $11.50\nmatcha, milk, vanilla syrup, banana pudding"
+      },
+      {
+        "drink_name": "Apple Lime Matcha Refresher",
+        "drink_category": "Matcha Soda",
+        "flavor": "Apple Lime",
+        "available_hot": null,
+        "available_iced": null,
+        "sizes": [
+          "16 oz"
+        ],
+        "min_price": 9.0,
+        "max_price": 9.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "First-harvest ceremonial grade",
+          "Kanayamidori - Kagoshima, Japan",
+          "Yabukita - Shizuoka, Japan"
+        ],
+        "evidence": "Apple Lime Matcha Refresher - $9.00\nmatcha, sparkling apple juice, lime"
+      }
+    ],
+    "extraction_notes": [
+      "The menu states a general 16 oz size and first-harvest ceremonial-grade matcha information for the menu.",
+      "Kanayamidori and Yabukita are listed as matcha choices, with their stated Japanese origins.",
+      "Milk alternatives are listed as +$1; base drink prices exclude this surcharge.",
+      "Apple Lime Matcha Refresher was categorized as Matcha Soda because it contains sparkling apple juice; the menu does not explicitly use the term soda."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1048,
+    "input_tokens_details": {
+      "cache_write_tokens": 1045,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1758,
+    "output_tokens_details": {
+      "reasoning_tokens": 358
+    },
+    "total_tokens": 2806
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "response_id": "resp_0b5d7f8478dc61c7016a93361f815c87d087d7a87370953fb6",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA024",
+  "menu_url": "https://yuuteacafe.net/products/matcha-series",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha Paradise",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "M1 Matcha Paradise"
+      },
+      {
+        "drink_name": "Golden Matcha",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "M2 Golden Matcha"
+      },
+      {
+        "drink_name": "Matcha Forest",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "M3 Matcha Forest"
+      },
+      {
+        "drink_name": "Matchamisu",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "M4 Matchamisu"
+      },
+      {
+        "drink_name": "King Matcha",
+        "drink_category": "Matcha",
+        "flavor": null,
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": null,
+        "max_price": null,
+        "price_is_starting": false,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "M5 King Matcha"
+      }
+    ],
+    "extraction_notes": [
+      "The official image provides names and drink photos only; prices, sizes, ingredients, milk choices, temperature labels, and matcha type claims are not stated.",
+      "All items are categorized as Matcha because the source identifies them as drinks but does not explicitly indicate latte, soda, smoothie, or dessert forms.",
+      "The names do not provide a sufficiently explicit primary flavor under the extraction rules."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1039,
+    "input_tokens_details": {
+      "cache_write_tokens": 1036,
+      "cached_tokens": 0
+    },
+    "output_tokens": 640,
+    "output_tokens_details": {
+      "reasoning_tokens": 201
+    },
+    "total_tokens": 1679
+  }
+}

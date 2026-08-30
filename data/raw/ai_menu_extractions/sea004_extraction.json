@@ -1,0 +1,246 @@
+{
+  "response_id": "resp_0ffb0a33dbf669bd016a932b74684087d0ba088a02a98960f6",
+  "model": "gpt-5.6-luna",
+  "shop_id": "SEA004",
+  "menu_url": "https://order.toasttab.com/online/matcha-man-ice-cream-taiyaki-6014-12th-ave-s",
+  "extraction": {
+    "items": [
+      {
+        "drink_name": "Matcha-Americano",
+        "drink_category": "Matcha",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.5,
+        "max_price": 5.5,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Ceremonial matcha & water"
+      },
+      {
+        "drink_name": "Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Original",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.0,
+        "max_price": 7.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Organic ceremonial matcha, milk, pure maple syrup"
+      },
+      {
+        "drink_name": "Sakura Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Sakura",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "sakura infused syrup"
+      },
+      {
+        "drink_name": "Lavender Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Lavender",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "lavender syrup"
+      },
+      {
+        "drink_name": "Rose Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Rose",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "rose infused syrup"
+      },
+      {
+        "drink_name": "Chai Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Chai",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 6.75,
+        "max_price": 6.75,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Organic ceremonial matcha, spiced chai, milk"
+      },
+      {
+        "drink_name": "Vanilla Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Vanilla",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.25,
+        "max_price": 7.25,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "vanilla paste, maple syrup"
+      },
+      {
+        "drink_name": "Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "fresh strawberry puree"
+      },
+      {
+        "drink_name": "Double Strawberry Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 9.0,
+        "max_price": 9.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "with strawberry cream top"
+      },
+      {
+        "drink_name": "Strawberry Cream Top Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Strawberry",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "(iced only)"
+      },
+      {
+        "drink_name": "Salted Cream Top Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Salted Cream",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "salted cream cold foam"
+      },
+      {
+        "drink_name": "Coconut Matcha Cloud",
+        "drink_category": "Matcha",
+        "flavor": "Coconut",
+        "available_hot": false,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 7.5,
+        "max_price": 7.5,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "(iced only) - $7.50+"
+      },
+      {
+        "drink_name": "Calamansi Matcha Soda",
+        "drink_category": "Matcha Soda",
+        "flavor": "Calamansi",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 5.75,
+        "max_price": 5.75,
+        "milk_options": [],
+        "matcha_type_claim": [
+          "Ceremonial"
+        ],
+        "evidence": "Ceremonial matcha, pure calamansi juice, club soda"
+      },
+      {
+        "drink_name": "Carrot Cake Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Carrot Cake",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.0,
+        "max_price": 8.0,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Carrot Cake Matcha Latte with house made carrot cake syrup"
+      },
+      {
+        "drink_name": "Banana Bread Matcha Latte",
+        "drink_category": "Matcha Latte",
+        "flavor": "Banana Bread",
+        "available_hot": null,
+        "available_iced": true,
+        "sizes": [],
+        "min_price": 8.5,
+        "max_price": 8.5,
+        "milk_options": [],
+        "matcha_type_claim": [],
+        "evidence": "Banana Bread Matcha Latte with house made banana bread syrup"
+      }
+    ],
+    "extraction_notes": [
+      "Prices shown with '+' were recorded with the listed amount as min_price; the upper price is unknown, so max_price is null.",
+      "No drink sizes or explicit milk alternatives were listed.",
+      "Items marked 'Out of stock' were retained because they are explicitly present in the menu."
+    ]
+  },
+  "usage": {
+    "input_tokens": 1199,
+    "input_tokens_details": {
+      "cache_write_tokens": 1196,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1513,
+    "output_tokens_details": {
+      "reasoning_tokens": 340
+    },
+    "total_tokens": 2712
+  }
+}
