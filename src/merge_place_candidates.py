@@ -9,7 +9,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 INPUT_DIR = PROJECT_ROOT / "data" / "raw" / "google_places"
-OUTPUT_PATH = PROJECT_ROOT / "data" / "processed" / "seattle_shop_candidates.csv"
+OUTPUT_PATH = PROJECT_ROOT / "data" / "interim" / "shop_candidates_merged.csv"
 EXCLUSIONS_PATH = PROJECT_ROOT / "data" / "raw" / "candidate_exclusions.csv"
 QUALIFICATIONS_PATH = PROJECT_ROOT / "data" / "raw" / "candidate_qualifications.csv"
 

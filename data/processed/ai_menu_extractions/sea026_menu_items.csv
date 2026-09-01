@@ -1,6 +1,0 @@
-item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
-SEA026-AI-001,SEA026,Jelly Matcha + Milk,Matcha Latte,Original,,True,12 oz,7.35,7.35,False,,Japan,Official Website,https://www.kotocoffee.com/menu,2026-08-29,Jelly Matcha + Milk — classic jelly matcha with choice of milk — 12 oz — $7.35,Reviewed
-SEA026-AI-002,SEA026,Jelly Matcha + Matcha Latte,Matcha Latte,Original,,True,12 oz,8.95,8.95,False,,Japan,Official Website,https://www.kotocoffee.com/menu,2026-08-29,"Jelly Matcha + Matcha Latte — jelly matcha, choice of milk, matcha syrup — 12 oz — $8.95",Reviewed
-SEA026-AI-003,SEA026,Jelly Milk + Matcha Syrup,Matcha,Original,,True,12 oz,8.55,8.55,False,Whole,Japan,Official Website,https://www.kotocoffee.com/menu,2026-08-29,Jelly Milk + Matcha Syrup — jelly milk with matcha syrup — 12 oz — $8.55,Reviewed
-SEA026-AI-004,SEA026,Matcha Latte,Matcha Latte,Original,,True,,6.5,6.5,False,,,Official Website,https://www.kotocoffee.com/menu,2026-08-29,Matcha Latte — $6.50,Reviewed
-SEA026-AI-005,SEA026,Matcha Cookie,Matcha Dessert,,,,,3.95,3.95,False,,,Official Website,https://www.kotocoffee.com/menu,2026-08-29,Matcha Cookie — $3.95,Reviewed

@@ -11,9 +11,10 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 PROCESSED = ROOT / "data/processed"
-MENU_INPUT = PROCESSED / "menu_items_seattle_reviewed.csv"
-SHOPS_INPUT = PROCESSED / "shops_seattle_clean.csv"
-TRACKER_INPUT = PROCESSED / "menu_collection_tracker.csv"
+INTERIM = ROOT / "data/interim"
+MENU_INPUT = INTERIM / "menu_items_clean.csv"
+SHOPS_INPUT = INTERIM / "shops_clean.csv"
+TRACKER_INPUT = INTERIM / "menu_collection_tracker.csv"
 MENU_OUTPUT = PROCESSED / "menu_items_analytics.csv"
 SHOPS_OUTPUT = PROCESSED / "shops_analytics.csv"
 QUALITY_OUTPUT = PROCESSED / "data_quality_report.csv"

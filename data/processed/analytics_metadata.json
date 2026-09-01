@@ -1,10 +1,10 @@
 {
   "analytics_price_definition": "Midpoint of min_price and max_price when both exist; otherwise the available min_price.",
   "matcha_price_level_method": "Tertiles of observed shop average prices",
-  "low_max": 7.23,
-  "medium_max": 8.09,
-  "shops_with_complete_menu": 23,
-  "shops_with_price_metrics": 21,
+  "low_max": 7.5,
+  "medium_max": 8.14,
+  "shops_with_complete_menu": 28,
+  "shops_with_price_metrics": 28,
   "matcha_score_definition": {
     "rating": 0.35,
     "menu_variety": 0.3,

@@ -1,11 +1,11 @@
 shop_id,shop_name,neighborhood,shop_type,menu_item_count,unique_flavor_count,avg_matcha_price,google_rating
-SEA010,Nana’s Green Tea,Denny Triangle,Matcha / Tea Shop,31,7,8.06,4.5
-SEA013,Junbi Matcha & Tea - Seattle,Capitol Hill,Matcha / Tea Shop,23,9,7.57,4.4
-SEA006,Matcha Magic Capitol Hill,Capitol Hill,Matcha / Tea Shop,15,12,,4.8
+SEA010,Nana’s Green Tea,Denny Triangle,Matcha / Tea Shop,31,7,8.14,4.5
+SEA013,Junbi Matcha & Tea - Seattle,Capitol Hill,Matcha / Tea Shop,23,10,7.57,4.4
+SEA006,Matcha Magic Capitol Hill,Capitol Hill,Matcha / Tea Shop,15,11,9.03,4.8
 SEA001,Matcha Magic SLU,South Lake Union,Matcha / Tea Shop,15,11,9.03,4.9
-SEA004,Matcha Man Ice Cream & Taiyaki,Georgetown,Bakery / Dessert Cafe,15,11,7.4,4.5
+SEA004,Matcha Man Ice Cream & Taiyaki,Georgetown,Bakery / Dessert Cafe,15,11,7.73,4.5
+SEA018,Jin Jin Matcha,Downtown,Matcha / Tea Shop,14,8,7.89,4.5
+SEA005,Drip Drip coffeehouse,First Hill,Cafe / Coffee Shop,13,11,8.06,4.5
 SEA002,The Moo Bar,Downtown,Boba / Bubble Tea Shop,13,11,9.08,4.1
-SEA005,Drip Drip coffeehouse,First Hill,Cafe / Coffee Shop,13,10,8.06,4.5
 SEA022,Atulea,Capitol Hill,Boba / Bubble Tea Shop,10,9,4.92,4.5
 SEA008,Mina’s Matcha,University District,Matcha / Tea Shop,10,9,9.03,4.8
-SEA027,CU URBAN MARKET & CAFE,Downtown,Cafe / Coffee Shop,8,6,6.58,4.8

@@ -1,5 +1,0 @@
-item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
-SEA025-AI-001,SEA025,Matcha Latte,Matcha Latte,Original,,True,,6.75,6.75,False,,,Current Menu Listing,https://aroomers.com/,2026-08-29,"Matcha Latte — homemade matcha sauce, milk — $6.75",Reviewed
-SEA025-AI-002,SEA025,Gloomy Matcha,Matcha Latte,Sesame,,True,,7.5,7.5,False,,,Current Menu Listing,https://aroomers.com/,2026-08-29,"Gloomy Matcha — homemade matcha sauce, milk, sesame cream — $7.50",Reviewed
-SEA025-AI-003,SEA025,Banana Matcha,Matcha Latte,Banana,,True,,7.5,7.5,False,,,Current Menu Listing,https://aroomers.com/,2026-08-29,"Banana Matcha — homemade matcha sauce, milk, banana cream — $7.50",Reviewed
-SEA025-AI-004,SEA025,Pandan Matcha,Matcha Latte,Pandan,,True,,7.5,7.5,False,,,Current Menu Listing,https://aroomers.com/,2026-08-29,"Pandan Matcha — homemade matcha sauce, milk, pandan cream — $7.50",Reviewed

@@ -9,10 +9,10 @@ import pandas as pd
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PILOT_PATH = PROJECT_ROOT / "data" / "raw" / "shops.xlsx"
-CANDIDATE_PATH = PROJECT_ROOT / "data" / "processed" / "seattle_shop_candidates.csv"
+PILOT_PATH = PROJECT_ROOT / "data" / "archive" / "pilot" / "shops_pilot.xlsx"
+CANDIDATE_PATH = PROJECT_ROOT / "data" / "interim" / "shop_candidates_merged.csv"
 PILOT_PLACE_ID_PATH = PROJECT_ROOT / "data" / "raw" / "pilot_place_id_lookup.csv"
-OUTPUT_PATH = PROJECT_ROOT / "data" / "processed" / "shops_seattle_clean.csv"
+OUTPUT_PATH = PROJECT_ROOT / "data" / "interim" / "shops_clean.csv"
 
 NEIGHBORHOOD_BY_SHOP_ID = {
     "SEA006": "Capitol Hill",

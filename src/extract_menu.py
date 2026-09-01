@@ -18,7 +18,7 @@ from menu_schema import MenuExtraction, openai_strict_json_schema
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_OUTPUT_DIR = PROJECT_ROOT / "data" / "raw" / "ai_menu_extractions"
-PROCESSED_OUTPUT_DIR = PROJECT_ROOT / "data" / "processed" / "ai_menu_extractions"
+PROCESSED_OUTPUT_DIR = PROJECT_ROOT / "data" / "interim" / "ai_menu_extractions"
 OVERRIDES_PATH = PROJECT_ROOT / "data" / "raw" / "menu_item_overrides.csv"
 
 
@@ -88,7 +88,7 @@ def flatten_extraction(
 
 
 def validate_shop_id(shop_id: str) -> None:
-    shops_path = PROJECT_ROOT / "data" / "processed" / "shops_seattle_clean.csv"
+    shops_path = PROJECT_ROOT / "data" / "interim" / "shops_clean.csv"
     shops = pd.read_csv(shops_path, usecols=["shop_id"])
     if shop_id not in set(shops["shop_id"]):
         raise ValueError(f"Unknown shop_id: {shop_id}")

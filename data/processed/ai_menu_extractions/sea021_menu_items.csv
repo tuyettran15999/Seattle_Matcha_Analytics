@@ -1,3 +1,0 @@
-item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
-SEA021-AI-001,SEA021,Kyoto Uji Matcha Latte,Matcha Latte,Original,,True,709 ml,6.5,6.5,False,Non-dairy milk,Uji,Owner-posted Menu,https://www.ohbearcafe.com/,2026-08-29,Kyoto Uji Matcha Latte — new — large 709 ml — $6.50,Reviewed
-SEA021-AI-002,SEA021,Matcha Red Bean Crepe,Matcha Dessert,Red bean,,,,10.5,10.5,False,,,Owner-posted Menu,https://www.ohbearcafe.com/,2026-08-29,"Matcha Red Bean Crepe — matcha custard, whipped cream, red bean, corn flakes, almonds, strawberry, matcha ice cream, chocolate pocky sticks — $10.50",Reviewed

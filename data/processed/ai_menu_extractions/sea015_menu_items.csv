@@ -1,5 +1,0 @@
-item_id,shop_id,drink_name,drink_category,flavor,available_hot,available_iced,size,min_price,max_price,price_is_starting,milk_options,matcha_type_claim,menu_source,menu_url,date_collected,extraction_evidence,review_status
-SEA015-AI-001,SEA015,Premium Matcha Brulee,Matcha Dessert,,,,,7.0,7.0,False,,Premium,Official Website,https://www.tamaribarseattle.com/food-1,2026-08-29,Premium Matcha Brulee — matcha creme brulee made with premium Sugimoto Tea Company matcha — $7,Reviewed
-SEA015-AI-002,SEA015,Baiten Soft Serve - Matcha,Matcha Dessert,,,,,7.0,7.0,False,,,Official Website,https://www.tamaribarseattle.com/food-1,2026-08-29,Baiten Soft Serve - Matcha — vanilla soft serve with Matcha syrup option — $7,Reviewed
-SEA015-AI-003,SEA015,Frozen Cookie Sandwich - Matcha,Matcha Dessert,,,,,7.0,7.0,False,,,Official Website,https://www.tamaribarseattle.com/food-1,2026-08-29,Frozen Cookie Sandwich - Matcha — Matcha tea cookie option; subject to availability — $7,Reviewed
-SEA015-AI-004,SEA015,Hot Matcha Tea,Matcha,Original,True,,,3.0,3.0,False,,,Official Website,https://www.tamaribarseattle.com/food-1,2026-08-29,Hot Matcha Tea — Matcha tea option — $3,Reviewed

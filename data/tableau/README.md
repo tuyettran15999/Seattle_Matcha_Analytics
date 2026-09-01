@@ -45,6 +45,23 @@ every menu item and can inflate shop counts, ratings, and review counts.
 - Menu variety: `menu_item_count`
 - Flavor variety: `unique_flavor_count`
 
-Only 23 of 28 shops have complete itemized menus. Use `has_complete_menu` when a
-visual compares menu variety or prices. Five source-limited shops should remain in
-location/coverage views but should not be treated as zero-menu shops.
+All 28 shops currently have human-validated, complete itemized menus and price
+coverage. Keep `has_complete_menu` in the model so future geographic expansions
+can distinguish complete menus from source-limited shops.
+
+## Dynamic Top 5 leaderboard
+
+`matcha_score_rank` is the fixed Seattle-wide rank exported for SQL reporting.
+For an interactive Tableau leaderboard that recalculates after area, shop type,
+or price-level filters, sort `Shop Name` descending by `AVG(matcha_score)` and use
+this table-calculation filter:
+
+```tableau
+// Keep Top 5
+INDEX() <= 5
+```
+
+Filter the calculation to `True` and compute it using `Table (Down)` / `Shop
+Name`. Do not place `Neighborhood` on Marks → Detail because it partitions the
+table calculation and restarts `INDEX()` for each neighborhood. Use
+`ATTR(Neighborhood)` on Tooltip instead.
