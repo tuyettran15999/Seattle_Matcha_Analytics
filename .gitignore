@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+~$*.xlsx
+data/archive/
+data/interim/
